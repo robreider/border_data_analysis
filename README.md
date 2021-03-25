@@ -1,4 +1,4 @@
-# demystipy-border_data_analysis
+# border_data_analysis
 
 This notebook analyzes a dataset on southwest border migrations using Facebook Prophet
 
